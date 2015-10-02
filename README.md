@@ -1,4 +1,4 @@
-# my-shell
+# myshell
 implement a simple shell
 
 Feature
